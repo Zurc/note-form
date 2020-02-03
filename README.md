@@ -1,3 +1,5 @@
+ref: [telerik blogs - managing state using rxjs subjects in angular apps](https://www.telerik.com/blogs/managing-state-using-rxjs-subjects-in-angular-applications)
+
 # ObserverNotes
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.2.3.
